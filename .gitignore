@@ -27,3 +27,5 @@ Contrib/cpuinfo/
 /JeVois_jevoisbase.jvpkg
 svnignore.sh
 *~
+
+!buildTools
